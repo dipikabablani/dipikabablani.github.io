@@ -9,4 +9,6 @@ redirect_from:
 ---	
 
 
-Hello, I'm Deepika, and I use this space mostly for blogging. Please check out my blog posts if you want to read about things I'm most excited about right now!
+Hello, I'm Deepika, and I use this space mostly for blogging. Please check out my blog posts if you want to read about things I'm most excited about right now.
+
+Note: The website is currently down for maintainance, please check back after the holidays!
